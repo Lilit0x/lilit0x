@@ -8,6 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2468) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (3 weeks ago)
@@ -27,7 +28,6 @@ Hi there 👋
 - [CHAR String Function: #13](https://github.com/AmrDeveloper/GQL/pull/19) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
 - [ASCII String Function: #13](https://github.com/AmrDeveloper/GQL/pull/18) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
 - [DATALENGTH String Function: #13](https://github.com/AmrDeveloper/GQL/pull/17) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
-- [CHAR String Functions: #13](https://github.com/AmrDeveloper/GQL/pull/16) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
 
 
 #### 👷 Check out what I'm currently working on
