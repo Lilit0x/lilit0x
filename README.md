@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 week ago)
 - [CeresDB/sqlness](https://github.com/CeresDB/sqlness) - An ergonomic, opinionated framework for SQL integration test. (1 week ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 weeks ago)
 - [Onboardbase/global-env](https://github.com/Onboardbase/global-env) - Dynamically evaluate environment variables at runtime. (2 weeks ago)
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (3 weeks ago)
