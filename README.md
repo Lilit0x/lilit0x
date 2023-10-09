@@ -17,10 +17,10 @@ Hi there 👋
 - [RIGHT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/31) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (3 weeks ago)
 - [STUFF String Function: #13](https://github.com/AmrDeveloper/GQL/pull/30) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (3 weeks ago)
 - [RIGHT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/29) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (3 weeks ago)
-- [SUBSTRING String Function: #13](https://github.com/AmrDeveloper/GQL/pull/28) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (4 weeks ago)
-- [STUFF String Function: #13](https://github.com/AmrDeveloper/GQL/pull/27) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (4 weeks ago)
-- [RIGHT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/26) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (4 weeks ago)
-- [REPLACE String Function: #13](https://github.com/AmrDeveloper/GQL/pull/25) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (4 weeks ago)
+- [SUBSTRING String Function: #13](https://github.com/AmrDeveloper/GQL/pull/28) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
+- [STUFF String Function: #13](https://github.com/AmrDeveloper/GQL/pull/27) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
+- [RIGHT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/26) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
+- [REPLACE String Function: #13](https://github.com/AmrDeveloper/GQL/pull/25) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
 - [LEFT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/22) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
 - [DATALENGTH String Function: #13](https://github.com/AmrDeveloper/GQL/pull/21) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
 - [CHAR String Function: #13](https://github.com/AmrDeveloper/GQL/pull/20) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
@@ -32,7 +32,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (6 days ago)
+- [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 week ago)
 - [CeresDB/sqlness](https://github.com/CeresDB/sqlness) - An ergonomic, opinionated framework for SQL integration test. (1 week ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 weeks ago)
 - [Onboardbase/global-env](https://github.com/Onboardbase/global-env) - Dynamically evaluate environment variables at runtime. (2 weeks ago)
