@@ -8,6 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
+- [chore(tests): added unit tests for manager](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (today)
 - [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (today)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [tests: transaction split endpoints integration tests](https://github.com/morukele/paystack-rs/pull/27) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (2 weeks ago)
@@ -27,7 +28,6 @@ Hi there 👋
 - [REPLACE String Function: #13](https://github.com/AmrDeveloper/GQL/pull/25) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
 - [LEFT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/22) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
 - [DATALENGTH String Function: #13](https://github.com/AmrDeveloper/GQL/pull/21) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
-- [CHAR String Function: #13](https://github.com/AmrDeveloper/GQL/pull/20) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (1 month ago)
 
 
 #### 👷 Check out what I'm currently working on
