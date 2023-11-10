@@ -27,7 +27,6 @@ Hi there 👋
 - [RIGHT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/26) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 - [REPLACE String Function: #13](https://github.com/AmrDeveloper/GQL/pull/25) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 - [LEFT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/22) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
-- [DATALENGTH String Function: #13](https://github.com/AmrDeveloper/GQL/pull/21) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 
 
 #### 👷 Check out what I'm currently working on
