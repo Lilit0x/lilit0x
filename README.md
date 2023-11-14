@@ -8,13 +8,13 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 week ago)
-- [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (1 week ago)
+- [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (2 weeks ago)
+- [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (2 weeks ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [tests: transaction split endpoints integration tests](https://github.com/morukele/paystack-rs/pull/27) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (1 month ago)
 - [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2468) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
+- [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (2 months ago)
 - [feat: clap wrapper around sqlness ](https://github.com/GreptimeTeam/greptimedb/pull/2400) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [SOUNDEX String Function](https://github.com/AmrDeveloper/GQL/pull/33) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
