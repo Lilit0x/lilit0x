@@ -8,6 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: rename CREATE CREDENTIALS to CREATE CREDENTIAL](https://github.com/GlareDB/glaredb/pull/2180) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (today)
 - [test: unit tests for pg_search](https://github.com/paradedb/paradedb/pull/573) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 day ago)
 - [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (4 weeks ago)
 - [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (4 weeks ago)
@@ -26,7 +27,6 @@ Hi there 👋
 - [SUBSTRING String Function: #13](https://github.com/AmrDeveloper/GQL/pull/28) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 - [STUFF String Function: #13](https://github.com/AmrDeveloper/GQL/pull/27) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 - [RIGHT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/26) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
-- [REPLACE String Function: #13](https://github.com/AmrDeveloper/GQL/pull/25) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 
 
 #### 👷 Check out what I'm currently working on
