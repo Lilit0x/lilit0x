@@ -8,10 +8,10 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: rename CREATE CREDENTIALS to CREATE CREDENTIAL](https://github.com/GlareDB/glaredb/pull/2180) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (today)
-- [test: unit tests for pg_search](https://github.com/paradedb/paradedb/pull/573) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 day ago)
-- [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (4 weeks ago)
-- [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (4 weeks ago)
+- [chore: rename CREATE CREDENTIALS to CREATE CREDENTIAL](https://github.com/GlareDB/glaredb/pull/2180) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 day ago)
+- [test: unit tests for pg_search](https://github.com/paradedb/paradedb/pull/573) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (2 days ago)
+- [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 month ago)
+- [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (1 month ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [tests: transaction split endpoints integration tests](https://github.com/morukele/paystack-rs/pull/27) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (1 month ago)
 - [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
@@ -31,8 +31,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (today)
-- [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (3 weeks ago)
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (1 day ago)
+- [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (4 weeks ago)
 - [Onboardbase/onboardbase-vscode](https://github.com/Onboardbase/onboardbase-vscode) - Onboardbase extension for Visual Studio Code (1 month ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 month ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 month ago)
