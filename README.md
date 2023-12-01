@@ -31,7 +31,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (1 day ago)
+- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (today)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (2 days ago)
 - [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (4 weeks ago)
 - [Onboardbase/onboardbase-vscode](https://github.com/Onboardbase/onboardbase-vscode) - Onboardbase extension for Visual Studio Code (1 month ago)
