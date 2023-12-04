@@ -27,6 +27,7 @@ Hi there 👋
 - [STUFF String Function: #13](https://github.com/AmrDeveloper/GQL/pull/30) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 - [RIGHT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/29) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 - [SUBSTRING String Function: #13](https://github.com/AmrDeveloper/GQL/pull/28) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
+- [STUFF String Function: #13](https://github.com/AmrDeveloper/GQL/pull/27) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 
 
 #### 👷 Check out what I'm currently working on
