@@ -8,6 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (today)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (4 days ago)
 - [feat: alias read_parquet, read_njson, read_csv to their scan counterpart](https://github.com/GlareDB/glaredb/pull/2185) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (5 days ago)
 - [chore: rename CREATE CREDENTIALS to CREATE CREDENTIAL](https://github.com/GlareDB/glaredb/pull/2180) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (6 days ago)
@@ -27,7 +28,6 @@ Hi there 👋
 - [STUFF String Function: #13](https://github.com/AmrDeveloper/GQL/pull/30) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 - [RIGHT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/29) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 - [SUBSTRING String Function: #13](https://github.com/AmrDeveloper/GQL/pull/28) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
-- [STUFF String Function: #13](https://github.com/AmrDeveloper/GQL/pull/27) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (2 months ago)
 
 
 #### 👷 Check out what I'm currently working on
