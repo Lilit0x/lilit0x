@@ -8,7 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (5 days ago)
+- [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (6 days ago)
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (3 weeks ago)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 month ago)
 - [feat: alias read_parquet, read_njson, read_csv to their scan counterpart](https://github.com/GlareDB/glaredb/pull/2185) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 month ago)
@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (1 week ago)
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (2 weeks ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (3 weeks ago)
-- [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (1 month ago)
+- [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (2 months ago)
 - [Onboardbase/onboardbase-vscode](https://github.com/Onboardbase/onboardbase-vscode) - Onboardbase extension for Visual Studio Code (2 months ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 months ago)
