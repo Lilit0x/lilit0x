@@ -32,7 +32,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (2 weeks ago)
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (3 weeks ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (1 month ago)
 - [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (2 months ago)
 - [Onboardbase/onboardbase-vscode](https://github.com/Onboardbase/onboardbase-vscode) - Onboardbase extension for Visual Studio Code (2 months ago)
