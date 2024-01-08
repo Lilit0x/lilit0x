@@ -8,6 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: added contribution and development documentation](https://github.com/opsfolio/resource-surveillance/pull/83) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (today)
 - [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 week ago)
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 month ago)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 month ago)
@@ -27,7 +28,6 @@ Hi there 👋
 - [TRANSLATE String Function: #13](https://github.com/AmrDeveloper/GQL/pull/32) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (3 months ago)
 - [RIGHT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/31) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (3 months ago)
 - [STUFF String Function: #13](https://github.com/AmrDeveloper/GQL/pull/30) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (3 months ago)
-- [RIGHT String Function: #13](https://github.com/AmrDeveloper/GQL/pull/29) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (3 months ago)
 
 
 #### 👷 Check out what I'm currently working on
