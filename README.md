@@ -8,6 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: Service Management and Observability](https://github.com/opsfolio/resource-surveillance/pull/89) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (today)
 - [feat: sqlpage webserver](https://github.com/opsfolio/resource-surveillance/pull/86) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 day ago)
 - [fix: fixed lifetimes and usage of strings](https://github.com/opsfolio/resource-surveillance/pull/84) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 days ago)
 - [chore: added contribution and development documentation](https://github.com/opsfolio/resource-surveillance/pull/83) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 days ago)
@@ -27,7 +28,6 @@ Hi there 👋
 - [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (3 months ago)
 - [feat: clap wrapper around sqlness ](https://github.com/GreptimeTeam/greptimedb/pull/2400) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
 - [SOUNDEX String Function](https://github.com/AmrDeveloper/GQL/pull/33) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (3 months ago)
-- [TRANSLATE String Function: #13](https://github.com/AmrDeveloper/GQL/pull/32) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (3 months ago)
 
 
 #### 👷 Check out what I'm currently working on
