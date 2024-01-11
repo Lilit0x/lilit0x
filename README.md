@@ -8,10 +8,10 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: Service Management and Observability](https://github.com/opsfolio/resource-surveillance/pull/89) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (today)
-- [feat: sqlpage webserver](https://github.com/opsfolio/resource-surveillance/pull/86) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 day ago)
-- [fix: fixed lifetimes and usage of strings](https://github.com/opsfolio/resource-surveillance/pull/84) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 days ago)
-- [chore: added contribution and development documentation](https://github.com/opsfolio/resource-surveillance/pull/83) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 days ago)
+- [feat: Service Management and Observability](https://github.com/opsfolio/resource-surveillance/pull/89) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 day ago)
+- [feat: sqlpage webserver](https://github.com/opsfolio/resource-surveillance/pull/86) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 days ago)
+- [fix: fixed lifetimes and usage of strings](https://github.com/opsfolio/resource-surveillance/pull/84) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (3 days ago)
+- [chore: added contribution and development documentation](https://github.com/opsfolio/resource-surveillance/pull/83) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (3 days ago)
 - [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (2 weeks ago)
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 month ago)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 month ago)
@@ -21,18 +21,18 @@ Hi there 👋
 - [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (2 months ago)
 - [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (2 months ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
-- [tests: transaction split endpoints integration tests](https://github.com/morukele/paystack-rs/pull/27) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (2 months ago)
+- [tests: transaction split endpoints integration tests](https://github.com/morukele/paystack-rs/pull/27) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (3 months ago)
 - [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2468) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
 - [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
 - [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (3 months ago)
 - [feat: clap wrapper around sqlness ](https://github.com/GreptimeTeam/greptimedb/pull/2400) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
-- [SOUNDEX String Function](https://github.com/AmrDeveloper/GQL/pull/33) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (3 months ago)
+- [SOUNDEX String Function](https://github.com/AmrDeveloper/GQL/pull/33) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (4 months ago)
 
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (1 day ago)
+- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (2 days ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (3 weeks ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (1 month ago)
 - [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (2 months ago)
