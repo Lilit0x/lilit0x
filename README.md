@@ -8,6 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: Migrating UDI-PGP into Surveilr](https://github.com/opsfolio/resource-surveillance/pull/96) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (today)
 - [test: Functional Tests for Ingestion](https://github.com/opsfolio/resource-surveillance/pull/94) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 day ago)
 - [SQLPage Webserver](https://github.com/opsfolio/resource-surveillance/pull/92) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (5 days ago)
 - [feat: Service Management and Observability](https://github.com/opsfolio/resource-surveillance/pull/89) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 week ago)
@@ -27,7 +28,6 @@ Hi there 👋
 - [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2468) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
 - [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 months ago)
-- [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (4 months ago)
 
 
 #### 👷 Check out what I'm currently working on
