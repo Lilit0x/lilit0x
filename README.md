@@ -32,7 +32,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (5 days ago)
+- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (today)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (1 month ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (1 month ago)
 - [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (2 months ago)
