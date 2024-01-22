@@ -8,13 +8,13 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: Migrating UDI-PGP into Surveilr](https://github.com/opsfolio/resource-surveillance/pull/96) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (4 days ago)
-- [test: Functional Tests for Ingestion](https://github.com/opsfolio/resource-surveillance/pull/94) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (5 days ago)
+- [feat: Migrating UDI-PGP into Surveilr](https://github.com/opsfolio/resource-surveillance/pull/96) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (5 days ago)
+- [test: Functional Tests for Ingestion](https://github.com/opsfolio/resource-surveillance/pull/94) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (6 days ago)
 - [SQLPage Webserver](https://github.com/opsfolio/resource-surveillance/pull/92) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 week ago)
 - [feat: Service Management and Observability](https://github.com/opsfolio/resource-surveillance/pull/89) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 week ago)
 - [feat: sqlpage webserver](https://github.com/opsfolio/resource-surveillance/pull/86) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 week ago)
-- [fix: fixed lifetimes and usage of strings](https://github.com/opsfolio/resource-surveillance/pull/84) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 week ago)
-- [chore: added contribution and development documentation](https://github.com/opsfolio/resource-surveillance/pull/83) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 week ago)
+- [fix: fixed lifetimes and usage of strings](https://github.com/opsfolio/resource-surveillance/pull/84) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 weeks ago)
+- [chore: added contribution and development documentation](https://github.com/opsfolio/resource-surveillance/pull/83) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 weeks ago)
 - [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (3 weeks ago)
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 month ago)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 month ago)
@@ -32,7 +32,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (4 days ago)
+- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (5 days ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (1 month ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (1 month ago)
 - [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (2 months ago)
