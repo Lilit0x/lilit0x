@@ -15,7 +15,7 @@ Hi there 👋
 - [feat: sqlpage webserver](https://github.com/opsfolio/resource-surveillance/pull/86) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 weeks ago)
 - [fix: fixed lifetimes and usage of strings](https://github.com/opsfolio/resource-surveillance/pull/84) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 weeks ago)
 - [chore: added contribution and development documentation](https://github.com/opsfolio/resource-surveillance/pull/83) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 weeks ago)
-- [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (4 weeks ago)
+- [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 month ago)
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 month ago)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 month ago)
 - [feat: alias read_parquet, read_njson, read_csv to their scan counterpart](https://github.com/GlareDB/glaredb/pull/2185) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 month ago)
