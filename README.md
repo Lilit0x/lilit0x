@@ -1,13 +1,14 @@
 Hi there 👋 
 
-💻 I'm interested in working with Rust to build operating systems, distributed databases and network programs.
-- Built [scs](https://github.com/Onboardbase/secure-share).
-- Working on [surveilr](https://github.com/Lilit0x/resource-surveillance)
+💻 I'm interested in working with Rust to build operating systems, distributed databases and network programming.
+- Currently tinkering with network programming concepts by building [scs](https://github.com/Onboardbase/secure-share) using Rust.
+- I also build/work on proxy databases for SQL like applications to be able to utilize the Postgres Wire Protocol. (It will be open sourced soon).
 
-🍺 I am open to opportunities in the fields mentioned above.
+🍺 I am open to internships opportunities in the fields mentioned above.
 
 #### 🔨 Check out my recent pull requests
 
+- [Feat/udi](https://github.com/Lilit0x/resource-surveillance/pull/1) on [Lilit0x/resource-surveillance](https://github.com/Lilit0x/resource-surveillance) (today)
 - [feat: Migrating UDI-PGP into Surveilr](https://github.com/opsfolio/resource-surveillance/pull/96) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (4 weeks ago)
 - [test: Functional Tests for Ingestion](https://github.com/opsfolio/resource-surveillance/pull/94) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (4 weeks ago)
 - [SQLPage Webserver](https://github.com/opsfolio/resource-surveillance/pull/92) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 month ago)
@@ -27,13 +28,12 @@ Hi there 👋
 - [tests: transaction split endpoints integration tests](https://github.com/morukele/paystack-rs/pull/27) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (4 months ago)
 - [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 months ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2468) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 months ago)
-- [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 months ago)
 
 
 #### 👷 Check out what I'm currently working on
 
+- [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (today)
 - [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (4 weeks ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (1 month ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (2 months ago)
 - [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (3 months ago)
-- [Onboardbase/onboardbase-vscode](https://github.com/Onboardbase/onboardbase-vscode) - Onboardbase extension for Visual Studio Code (3 months ago)
