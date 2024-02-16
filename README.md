@@ -8,8 +8,8 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [Feat/udi](https://github.com/Lilit0x/resource-surveillance/pull/1) on [Lilit0x/resource-surveillance](https://github.com/Lilit0x/resource-surveillance) (1 day ago)
-- [feat: Migrating UDI-PGP into Surveilr](https://github.com/opsfolio/resource-surveillance/pull/96) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (4 weeks ago)
+- [Feat/udi](https://github.com/Lilit0x/resource-surveillance/pull/1) on [Lilit0x/resource-surveillance](https://github.com/Lilit0x/resource-surveillance) (2 days ago)
+- [feat: Migrating UDI-PGP into Surveilr](https://github.com/opsfolio/resource-surveillance/pull/96) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 month ago)
 - [test: Functional Tests for Ingestion](https://github.com/opsfolio/resource-surveillance/pull/94) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 month ago)
 - [SQLPage Webserver](https://github.com/opsfolio/resource-surveillance/pull/92) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 month ago)
 - [feat: Service Management and Observability](https://github.com/opsfolio/resource-surveillance/pull/89) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (1 month ago)
@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 day ago)
-- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (4 weeks ago)
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (1 month ago)
+- [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (2 days ago)
+- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (1 month ago)
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (2 months ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (2 months ago)
 - [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (3 months ago)
