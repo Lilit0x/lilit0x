@@ -19,7 +19,7 @@ Hi there 👋
 - [feat: sqlpage webserver](https://github.com/opsfolio/resource-surveillance/pull/86) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 months ago)
 - [fix: fixed lifetimes and usage of strings](https://github.com/opsfolio/resource-surveillance/pull/84) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 months ago)
 - [chore: added contribution and development documentation](https://github.com/opsfolio/resource-surveillance/pull/83) on [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) (2 months ago)
-- [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (2 months ago)
+- [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (3 months ago)
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (3 months ago)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (3 months ago)
 - [feat: alias read_parquet, read_njson, read_csv to their scan counterpart](https://github.com/GlareDB/glaredb/pull/2185) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (3 months ago)
@@ -32,7 +32,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (3 days ago)
+- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (4 days ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 month ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (3 months ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (3 months ago)
