@@ -24,7 +24,7 @@ Hi there 👋
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (3 months ago)
 - [feat: alias read_parquet, read_njson, read_csv to their scan counterpart](https://github.com/GlareDB/glaredb/pull/2185) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (3 months ago)
 - [chore: rename CREATE CREDENTIALS to CREATE CREDENTIAL](https://github.com/GlareDB/glaredb/pull/2180) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (3 months ago)
-- [test: unit tests for pg_search](https://github.com/paradedb/paradedb/pull/573) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (3 months ago)
+- [test: unit tests for pg_search](https://github.com/paradedb/paradedb/pull/573) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (4 months ago)
 - [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (4 months ago)
 - [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (4 months ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 months ago)
@@ -32,7 +32,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (today)
+- [opsfolio/resource-surveillance](https://github.com/opsfolio/resource-surveillance) - Uniform resource content surveillance (1 day ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 month ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (3 months ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (3 months ago)
