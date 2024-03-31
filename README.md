@@ -8,8 +8,8 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (1 week ago)
-- [Removed `vfork`](https://github.com/rust-lang/libc/pull/3624) on [rust-lang/libc](https://github.com/rust-lang/libc) (1 week ago)
+- [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 weeks ago)
+- [Removed `vfork`](https://github.com/rust-lang/libc/pull/3624) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 weeks ago)
 - [Remove placeholder constants](https://github.com/rust-lang/libc/pull/3620) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 weeks ago)
 - [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (3 months ago)
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (3 months ago)
@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashkurup/resource-surveillance](https://github.com/avinashkurup/resource-surveillance) - Uniform resource content surveillance (5 days ago)
+- [avinashkurup/resource-surveillance](https://github.com/avinashkurup/resource-surveillance) - Uniform resource content surveillance (6 days ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 month ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (3 months ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (3 months ago)
-- [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (4 months ago)
+- [morukele/paystack-rs](https://github.com/morukele/paystack-rs) - An open-source rust library for using the PayStack API (5 months ago)
