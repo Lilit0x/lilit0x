@@ -32,7 +32,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashkurup/resource-surveillance](https://github.com/avinashkurup/resource-surveillance) - Uniform resource content surveillance (6 days ago)
+- [avinashkurup/resource-surveillance](https://github.com/avinashkurup/resource-surveillance) - Uniform resource content surveillance (1 week ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 month ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (3 months ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (3 months ago)
