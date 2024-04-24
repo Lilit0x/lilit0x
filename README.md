@@ -34,6 +34,6 @@ Hi there 👋
 
 - [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (6 days ago)
 - [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (1 week ago)
+- [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust (1 month ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (2 months ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (4 months ago)
-- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (4 months ago)
