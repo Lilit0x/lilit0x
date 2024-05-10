@@ -20,19 +20,19 @@ Hi there 👋
 - [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (6 months ago)
 - [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (6 months ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 months ago)
-- [tests: transaction split endpoints integration tests](https://github.com/morukele/paystack-rs/pull/27) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (6 months ago)
+- [tests: transaction split endpoints integration tests](https://github.com/morukele/paystack-rs/pull/27) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (7 months ago)
 - [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (7 months ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2468) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (7 months ago)
 - [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (7 months ago)
 - [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (7 months ago)
 - [feat: clap wrapper around sqlness ](https://github.com/GreptimeTeam/greptimedb/pull/2400) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (7 months ago)
-- [SOUNDEX String Function](https://github.com/AmrDeveloper/GQL/pull/33) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (7 months ago)
-- [TRANSLATE String Function: #13](https://github.com/AmrDeveloper/GQL/pull/32) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (7 months ago)
+- [SOUNDEX String Function](https://github.com/AmrDeveloper/GQL/pull/33) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (8 months ago)
+- [TRANSLATE String Function: #13](https://github.com/AmrDeveloper/GQL/pull/32) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (8 months ago)
 
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (6 days ago)
+- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (1 week ago)
 - [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (2 weeks ago)
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust (1 month ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (2 months ago)
