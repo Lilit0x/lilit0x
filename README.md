@@ -8,8 +8,8 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (1 month ago)
-- [Removed `vfork`](https://github.com/rust-lang/libc/pull/3624) on [rust-lang/libc](https://github.com/rust-lang/libc) (1 month ago)
+- [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 months ago)
+- [Removed `vfork`](https://github.com/rust-lang/libc/pull/3624) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 months ago)
 - [Remove placeholder constants](https://github.com/rust-lang/libc/pull/3620) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 months ago)
 - [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (4 months ago)
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (5 months ago)
@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (1 day ago)
-- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (1 day ago)
-- [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust (1 month ago)
+- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (2 days ago)
+- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (2 days ago)
+- [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust (2 months ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (3 months ago)
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (4 months ago)
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (5 months ago)
