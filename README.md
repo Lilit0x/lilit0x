@@ -8,6 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
+- [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/59) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (today)
 - [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 months ago)
 - [Removed `vfork`](https://github.com/rust-lang/libc/pull/3624) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 months ago)
 - [Remove placeholder constants](https://github.com/rust-lang/libc/pull/3620) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 months ago)
@@ -27,7 +28,6 @@ Hi there 👋
 - [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (8 months ago)
 - [feat: clap wrapper around sqlness ](https://github.com/GreptimeTeam/greptimedb/pull/2400) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
 - [SOUNDEX String Function](https://github.com/AmrDeveloper/GQL/pull/33) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (8 months ago)
-- [TRANSLATE String Function: #13](https://github.com/AmrDeveloper/GQL/pull/32) on [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) (8 months ago)
 
 
 #### 👷 Check out what I'm currently working on
