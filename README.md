@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (today)
 - [opsfolio/jira_query](https://github.com/opsfolio/jira_query) -  (1 week ago)
 - [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (2 weeks ago)
-- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (2 weeks ago)
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust (2 months ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (3 months ago)
