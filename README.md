@@ -8,8 +8,8 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [New package: Opsfolio.Surveilr version 0.9.0](https://github.com/microsoft/winget-pkgs/pull/155614) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) (today)
-- [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/59) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (today)
+- [New package: Opsfolio.Surveilr version 0.9.0](https://github.com/microsoft/winget-pkgs/pull/155614) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) (1 day ago)
+- [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/59) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (1 day ago)
 - [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 months ago)
 - [Removed `vfork`](https://github.com/rust-lang/libc/pull/3624) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 months ago)
 - [Remove placeholder constants](https://github.com/rust-lang/libc/pull/3620) on [rust-lang/libc](https://github.com/rust-lang/libc) (2 months ago)
@@ -32,7 +32,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (today)
+- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (1 day ago)
 - [opsfolio/jira_query](https://github.com/opsfolio/jira_query) -  (1 week ago)
 - [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (2 weeks ago)
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust (2 months ago)
