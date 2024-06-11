@@ -26,7 +26,7 @@ Hi there 👋
 - [tests: transaction split endpoints integration tests](https://github.com/morukele/paystack-rs/pull/27) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (8 months ago)
 - [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2468) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
-- [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
+- [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (9 months ago)
 - [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (9 months ago)
 
 
@@ -35,5 +35,5 @@ Hi there 👋
 - [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) - A workspace of libraries and plugins for @tauri-apps (1 week ago)
 - [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (1 week ago)
 - [opsfolio/jira_query](https://github.com/opsfolio/jira_query) -  (3 weeks ago)
-- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (3 weeks ago)
+- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (4 weeks ago)
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust (2 months ago)
