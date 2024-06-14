@@ -22,7 +22,7 @@ Hi there 👋
 - [test: unit tests for pg_search](https://github.com/paradedb/paradedb/pull/573) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (6 months ago)
 - [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (7 months ago)
 - [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (7 months ago)
-- [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (7 months ago)
+- [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
 - [tests: transaction split endpoints integration tests](https://github.com/morukele/paystack-rs/pull/27) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (8 months ago)
 - [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2468) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
