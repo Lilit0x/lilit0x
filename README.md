@@ -27,13 +27,13 @@ Hi there 👋
 - [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (10 months ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2468) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (10 months ago)
 - [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (10 months ago)
-- [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (10 months ago)
+- [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (11 months ago)
 
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (today)
-- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (1 day ago)
+- [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (1 day ago)
+- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (2 days ago)
 - [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (1 month ago)
 - [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) - A workspace of libraries and plugins for @tauri-apps (2 months ago)
 - [opsfolio/jira_query](https://github.com/opsfolio/jira_query) -  (2 months ago)
