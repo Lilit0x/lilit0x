@@ -18,7 +18,7 @@ Hi there 👋
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (8 months ago)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (8 months ago)
 - [feat: alias read_parquet, read_njson, read_csv to their scan counterpart](https://github.com/GlareDB/glaredb/pull/2185) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (8 months ago)
-- [chore: rename CREATE CREDENTIALS to CREATE CREDENTIAL](https://github.com/GlareDB/glaredb/pull/2180) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (8 months ago)
+- [chore: rename CREATE CREDENTIALS to CREATE CREDENTIAL](https://github.com/GlareDB/glaredb/pull/2180) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (9 months ago)
 - [test: unit tests for pg_search](https://github.com/paradedb/paradedb/pull/573) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (9 months ago)
 - [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (9 months ago)
 - [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (9 months ago)
@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (2 days ago)
-- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (2 days ago)
-- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (2 days ago)
+- [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (3 days ago)
+- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (3 days ago)
+- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (3 days ago)
 - [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) - A workspace of libraries and plugins for @tauri-apps (2 months ago)
 - [opsfolio/jira_query](https://github.com/opsfolio/jira_query) -  (3 months ago)
