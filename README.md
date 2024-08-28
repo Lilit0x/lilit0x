@@ -8,7 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/60) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (2 months ago)
+- [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/60) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (3 months ago)
 - [New package: Opsfolio.Surveilr version 0.9.0](https://github.com/microsoft/winget-pkgs/pull/155614) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) (3 months ago)
 - [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/59) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (3 months ago)
 - [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (5 months ago)
@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (today)
-- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (1 day ago)
-- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (5 days ago)
-- [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) - A workspace of libraries and plugins for @tauri-apps (2 months ago)
+- [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (1 day ago)
+- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (2 days ago)
+- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (6 days ago)
+- [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) - A workspace of libraries and plugins for @tauri-apps (3 months ago)
 - [opsfolio/jira_query](https://github.com/opsfolio/jira_query) -  (3 months ago)
