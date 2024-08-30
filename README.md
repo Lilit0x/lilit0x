@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (today)
 - [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (today)
-- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (1 day ago)
 - [Al-Qalam-Academy/receipt-generator](https://github.com/Al-Qalam-Academy/receipt-generator) -  (2 days ago)
 - [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (1 week ago)
 - [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) - A workspace of libraries and plugins for @tauri-apps (3 months ago)
