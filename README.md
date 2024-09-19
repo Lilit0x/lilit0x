@@ -32,7 +32,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (1 day ago)
+- [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (today)
 - [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (1 day ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (3 days ago)
 - [Al-Qalam-Academy/receipt-generator](https://github.com/Al-Qalam-Academy/receipt-generator) -  (3 weeks ago)
