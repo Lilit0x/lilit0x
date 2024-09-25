@@ -33,7 +33,7 @@ Hi there 👋
 #### 👷 Check out what I'm currently working on
 
 - [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (today)
-- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (5 days ago)
+- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (today)
 - [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (6 days ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 week ago)
 - [Al-Qalam-Academy/receipt-generator](https://github.com/Al-Qalam-Academy/receipt-generator) -  (4 weeks ago)
