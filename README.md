@@ -8,6 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
+- [Diagnosing RSSD Size Issues in `surveilr shell` Blog Post](https://github.com/surveilr/www.surveilr.com/pull/83) on [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) (today)
 - [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/60) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (4 months ago)
 - [New package: Opsfolio.Surveilr version 0.9.0](https://github.com/microsoft/winget-pkgs/pull/155614) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) (4 months ago)
 - [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/59) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (4 months ago)
@@ -27,7 +28,6 @@ Hi there 👋
 - [feat: renaming kv directory to metadata](https://github.com/GreptimeTeam/greptimedb/pull/2549) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2468) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
 - [feat: support for show full tables](https://github.com/GreptimeTeam/greptimedb/pull/2410) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
-- [feat: support postgres wire protocol](https://github.com/CeresDB/sqlness/pull/62) on [CeresDB/sqlness](https://github.com/CeresDB/sqlness) (1 year ago)
 
 
 #### 👷 Check out what I'm currently working on
