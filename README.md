@@ -33,7 +33,7 @@ Hi there 👋
 #### 👷 Check out what I'm currently working on
 
 - [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (today)
-- [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (5 days ago)
+- [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (today)
 - [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (1 week ago)
 - [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (1 month ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 month ago)
