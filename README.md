@@ -9,7 +9,7 @@ Hi there 👋
 #### 🔨 Check out my recent pull requests
 
 - [Diagnosing RSSD Size Issues in `surveilr shell` Blog Post](https://github.com/surveilr/www.surveilr.com/pull/83) on [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) (1 week ago)
-- [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/60) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (4 months ago)
+- [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/60) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (5 months ago)
 - [New package: Opsfolio.Surveilr version 0.9.0](https://github.com/microsoft/winget-pkgs/pull/155614) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) (5 months ago)
 - [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/59) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (5 months ago)
 - [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (7 months ago)
@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (4 days ago)
-- [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (4 days ago)
+- [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (5 days ago)
+- [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (5 days ago)
 - [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (1 week ago)
 - [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (1 month ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 month ago)
