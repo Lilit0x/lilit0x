@@ -15,7 +15,7 @@ Hi there 👋
 - [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (8 months ago)
 - [Removed `vfork`](https://github.com/rust-lang/libc/pull/3624) on [rust-lang/libc](https://github.com/rust-lang/libc) (8 months ago)
 - [Remove placeholder constants](https://github.com/rust-lang/libc/pull/3620) on [rust-lang/libc](https://github.com/rust-lang/libc) (8 months ago)
-- [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (10 months ago)
+- [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (11 months ago)
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (11 months ago)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (11 months ago)
 - [feat: alias read_parquet, read_njson, read_csv to their scan counterpart](https://github.com/GlareDB/glaredb/pull/2185) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (11 months ago)
@@ -32,7 +32,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (1 day ago)
+- [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (2 days ago)
 - [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (1 week ago)
 - [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (4 weeks ago)
 - [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (2 months ago)
