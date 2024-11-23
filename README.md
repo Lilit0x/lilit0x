@@ -19,7 +19,7 @@ Hi there 👋
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (11 months ago)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (11 months ago)
 - [feat: alias read_parquet, read_njson, read_csv to their scan counterpart](https://github.com/GlareDB/glaredb/pull/2185) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (11 months ago)
-- [chore: rename CREATE CREDENTIALS to CREATE CREDENTIAL](https://github.com/GlareDB/glaredb/pull/2180) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (11 months ago)
+- [chore: rename CREATE CREDENTIALS to CREATE CREDENTIAL](https://github.com/GlareDB/glaredb/pull/2180) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 year ago)
 - [test: unit tests for pg_search](https://github.com/paradedb/paradedb/pull/573) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 year ago)
 - [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 year ago)
 - [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (1 year ago)
@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (today)
-- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (today)
+- [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (1 day ago)
+- [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (1 day ago)
 - [opsfolio/docs.opsfolio.com](https://github.com/opsfolio/docs.opsfolio.com) - Documentation for publicly accessible Opsfolio packages (1 month ago)
 - [opsfolio/resource-surveillance-commons](https://github.com/opsfolio/resource-surveillance-commons) - Reusable and common surveilr patterns (2 months ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (2 months ago)
