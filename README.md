@@ -15,7 +15,7 @@ Hi there 👋
 - [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/59) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (7 months ago)
 - [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (9 months ago)
 - [Removed `vfork`](https://github.com/rust-lang/libc/pull/3624) on [rust-lang/libc](https://github.com/rust-lang/libc) (9 months ago)
-- [Remove placeholder constants](https://github.com/rust-lang/libc/pull/3620) on [rust-lang/libc](https://github.com/rust-lang/libc) (9 months ago)
+- [Remove placeholder constants](https://github.com/rust-lang/libc/pull/3620) on [rust-lang/libc](https://github.com/rust-lang/libc) (10 months ago)
 - [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 year ago)
 - [feat: introduces ICU tokenizer](https://github.com/paradedb/paradedb/pull/615) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 year ago)
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 year ago)
