@@ -21,7 +21,7 @@ Hi there 👋
 - [feat: add --logs flag to local command](https://github.com/GlareDB/glaredb/pull/2187) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 year ago)
 - [feat: alias read_parquet, read_njson, read_csv to their scan counterpart](https://github.com/GlareDB/glaredb/pull/2185) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 year ago)
 - [chore: rename CREATE CREDENTIALS to CREATE CREDENTIAL](https://github.com/GlareDB/glaredb/pull/2180) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (1 year ago)
-- [test: unit tests for pg_search](https://github.com/paradedb/paradedb/pull/573) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (1 year ago)
+- [test: unit tests for pg_search](https://github.com/paradedb/paradedb/pull/573) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (2 years ago)
 - [test: unit test suites for pg_bm25](https://github.com/paradedb/paradedb/pull/468) on [paradedb/paradedb](https://github.com/paradedb/paradedb) (2 years ago)
 - [Transaction Split Tests](https://github.com/morukele/paystack-rs/pull/29) on [morukele/paystack-rs](https://github.com/morukele/paystack-rs) (2 years ago)
 - [feat: row protocol support for opentsdb](https://github.com/GreptimeTeam/greptimedb/pull/2623) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
@@ -32,8 +32,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [Lilit0x/kvs](https://github.com/Lilit0x/kvs) -  (today)
-- [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (2 weeks ago)
+- [Lilit0x/kvs](https://github.com/Lilit0x/kvs) -  (1 day ago)
+- [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (3 weeks ago)
 - [surveilr/surveilrctl](https://github.com/surveilr/surveilrctl) - A lightweight agent for installing osQuery and setting up a &#34;surveilr osquery-ms&#34; node. (1 month ago)
 - [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (2 months ago)
 - [surveilr/surveilr-extensions](https://github.com/surveilr/surveilr-extensions) - A library that statically links all default `surveilr` extensions to SQLite (5 months ago)
