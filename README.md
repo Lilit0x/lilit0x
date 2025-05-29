@@ -36,4 +36,4 @@ Hi there 👋
 - [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (4 weeks ago)
 - [surveilr/surveilrctl](https://github.com/surveilr/surveilrctl) - A lightweight agent for installing osQuery and setting up a &#34;surveilr osquery-ms&#34; node. (1 month ago)
 - [opsfolio/releases.opsfolio.com](https://github.com/opsfolio/releases.opsfolio.com) - Publicly accessible Opsfolio packages (3 months ago)
-- [surveilr/surveilr-extensions](https://github.com/surveilr/surveilr-extensions) - A library that statically links all default `surveilr` extensions to SQLite (5 months ago)
+- [surveilr/surveilr-extensions](https://github.com/surveilr/surveilr-extensions) - A library that statically links all default `surveilr` extensions to SQLite (6 months ago)
