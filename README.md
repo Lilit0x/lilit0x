@@ -8,7 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor(app): added msvc compiler specific files](https://github.com/surveilr/sqlean/pull/1) on [surveilr/sqlean](https://github.com/surveilr/sqlean) (6 months ago)
+- [refactor(app): added msvc compiler specific files](https://github.com/surveilr/sqlean/pull/1) on [surveilr/sqlean](https://github.com/surveilr/sqlean) (7 months ago)
 - [Diagnosing RSSD Size Issues in `surveilr shell` Blog Post](https://github.com/surveilr/www.surveilr.com/pull/83) on [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) (8 months ago)
 - [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/60) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (1 year ago)
 - [New package: Opsfolio.Surveilr version 0.9.0](https://github.com/microsoft/winget-pkgs/pull/155614) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) (1 year ago)
