@@ -16,7 +16,6 @@ Hi there 👋
 - [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (1 year ago)
 - [Removed `vfork`](https://github.com/rust-lang/libc/pull/3624) on [rust-lang/libc](https://github.com/rust-lang/libc) (1 year ago)
 - [Remove placeholder constants](https://github.com/rust-lang/libc/pull/3620) on [rust-lang/libc](https://github.com/rust-lang/libc) (1 year ago)
-- [feat: data source from JSON array data](https://github.com/GlareDB/glaredb/pull/2306) on [GlareDB/glaredb](https://github.com/GlareDB/glaredb) (2 years ago)
 
 
 #### 👷 Check out what I'm currently working on
