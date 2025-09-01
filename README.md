@@ -15,7 +15,6 @@ Hi there 👋
 - [Windows Implementation for the `app-icon` library](https://github.com/ahkohd/tauri-toolkit/pull/59) on [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) (1 year ago)
 - [Windows `stats::st_mode` and `stat` flags type.](https://github.com/rust-lang/libc/pull/3625) on [rust-lang/libc](https://github.com/rust-lang/libc) (1 year ago)
 - [Removed `vfork`](https://github.com/rust-lang/libc/pull/3624) on [rust-lang/libc](https://github.com/rust-lang/libc) (1 year ago)
-- [Remove placeholder constants](https://github.com/rust-lang/libc/pull/3620) on [rust-lang/libc](https://github.com/rust-lang/libc) (1 year ago)
 
 
 #### 👷 Check out what I'm currently working on
