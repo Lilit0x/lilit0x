@@ -23,4 +23,4 @@ Hi there 👋
 - [surveilr/www.surveilr.com](https://github.com/surveilr/www.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (4 months ago)
 - [surveilr/surveilrctl](https://github.com/surveilr/surveilrctl) - A lightweight agent for installing osQuery and setting up a &#34;surveilr osquery-ms&#34; node. (5 months ago)
 - [surveilr/surveilr-extensions](https://github.com/surveilr/surveilr-extensions) - A library that statically links all default `surveilr` extensions to SQLite (9 months ago)
-- [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (11 months ago)
+- [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 year ago)
