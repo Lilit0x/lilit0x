@@ -8,7 +8,6 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor(app): added msvc compiler specific files](https://github.com/surveilr/sqlean/pull/1) on [surveilr/sqlean](https://github.com/surveilr/sqlean) (9 months ago)
 
 
 #### 👷 Check out what I'm currently working on
