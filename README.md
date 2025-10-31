@@ -8,7 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [Postgres 18 OAuth](https://github.com/sunng87/pgwire/pull/340) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (today)
+- [Postgres 18 OAuth](https://github.com/sunng87/pgwire/pull/340) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (1 day ago)
 
 
 #### 👷 Check out what I'm currently working on
