@@ -15,4 +15,5 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library. (today)
 - [Lilit0x/kvs](https://github.com/Lilit0x/kvs) -  (1 month ago)
