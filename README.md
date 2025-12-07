@@ -8,7 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [chore(server): built-in oauth validator](https://github.com/sunng87/pgwire/pull/365) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (today)
+- [chore(server): built-in oauth validator](https://github.com/sunng87/pgwire/pull/365) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (1 day ago)
 - [feat(server): #298 postgres 18 oauth support ](https://github.com/sunng87/pgwire/pull/349) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (3 weeks ago)
 - [feat(server): #346 drop unnamed portals immediately after execution](https://github.com/sunng87/pgwire/pull/348) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (3 weeks ago)
 - [Postgres 18 OAuth](https://github.com/sunng87/pgwire/pull/340) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (1 month ago)
@@ -16,5 +16,5 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library. (6 days ago)
+- [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library. (1 week ago)
 - [Lilit0x/kvs](https://github.com/Lilit0x/kvs) -  (1 month ago)
