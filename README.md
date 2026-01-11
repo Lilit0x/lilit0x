@@ -9,8 +9,8 @@ Hi there 👋
 #### 🔨 Check out my recent pull requests
 
 - [chore(server): built-in oauth validator](https://github.com/sunng87/pgwire/pull/365) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (1 month ago)
-- [feat(server): #298 postgres 18 oauth support ](https://github.com/sunng87/pgwire/pull/349) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (1 month ago)
-- [feat(server): #346 drop unnamed portals immediately after execution](https://github.com/sunng87/pgwire/pull/348) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (1 month ago)
+- [feat(server): #298 postgres 18 oauth support ](https://github.com/sunng87/pgwire/pull/349) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (2 months ago)
+- [feat(server): #346 drop unnamed portals immediately after execution](https://github.com/sunng87/pgwire/pull/348) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (2 months ago)
 - [Postgres 18 OAuth](https://github.com/sunng87/pgwire/pull/340) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (2 months ago)
 
 
