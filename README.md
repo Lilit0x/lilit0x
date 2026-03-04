@@ -18,8 +18,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App (1 day ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (5 days ago)
 - [surveilr/legacy.surveilr.com](https://github.com/surveilr/legacy.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (1 month ago)
 - [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library. (2 months ago)
 - [Lilit0x/kvs](https://github.com/Lilit0x/kvs) -  (4 months ago)
-- [surveilr/surveilrctl](https://github.com/surveilr/surveilrctl) - A lightweight agent for installing osQuery and setting up a &#34;surveilr osquery-ms&#34; node. (10 months ago)
