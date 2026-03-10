@@ -8,7 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [Add qauld-ctl CLI and Unix socket control interface for qauld (#541)](https://github.com/qaul/qaul.net/pull/783) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (5 days ago)
+- [Add qauld-ctl CLI and Unix socket control interface for qauld (#541)](https://github.com/qaul/qaul.net/pull/783) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (6 days ago)
 - [Add qauld-ctl CLI and Unix socket control interface for qauld (#541)](https://github.com/qaul/qaul.net/pull/747) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (3 weeks ago)
 - [chore(server): built-in oauth validator](https://github.com/sunng87/pgwire/pull/365) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (3 months ago)
 - [feat(server): #298 postgres 18 oauth support ](https://github.com/sunng87/pgwire/pull/349) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (3 months ago)
@@ -18,7 +18,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App (6 days ago)
+- [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App (1 week ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 week ago)
 - [surveilr/legacy.surveilr.com](https://github.com/surveilr/legacy.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (1 month ago)
 - [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library. (2 months ago)
