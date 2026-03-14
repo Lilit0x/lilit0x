@@ -9,7 +9,7 @@ Hi there 👋
 #### 🔨 Check out my recent pull requests
 
 - [Add qauld-ctl CLI and Unix socket control interface for qauld (#541)](https://github.com/qaul/qaul.net/pull/783) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (1 week ago)
-- [Add qauld-ctl CLI and Unix socket control interface for qauld (#541)](https://github.com/qaul/qaul.net/pull/747) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (4 weeks ago)
+- [Add qauld-ctl CLI and Unix socket control interface for qauld (#541)](https://github.com/qaul/qaul.net/pull/747) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (1 month ago)
 - [chore(server): built-in oauth validator](https://github.com/sunng87/pgwire/pull/365) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (3 months ago)
 - [feat(server): #298 postgres 18 oauth support ](https://github.com/sunng87/pgwire/pull/349) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (4 months ago)
 - [feat(server): #346 drop unnamed portals immediately after execution](https://github.com/sunng87/pgwire/pull/348) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (4 months ago)
