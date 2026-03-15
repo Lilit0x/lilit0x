@@ -20,6 +20,6 @@ Hi there 👋
 
 - [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App (1 week ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (2 weeks ago)
-- [surveilr/legacy.surveilr.com](https://github.com/surveilr/legacy.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (1 month ago)
+- [surveilr/legacy.surveilr.com](https://github.com/surveilr/legacy.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (2 months ago)
 - [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library. (3 months ago)
 - [Lilit0x/kvs](https://github.com/Lilit0x/kvs) -  (5 months ago)
