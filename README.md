@@ -8,7 +8,7 @@ Hi there 👋
 
 #### 🔨 Check out my recent pull requests
 
-- [Windows support via TCP fallback for qauld-ctl Unix Socket](https://github.com/qaul/qaul.net/pull/819) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (2 days ago)
+- [Windows support via TCP fallback for qauld-ctl Unix Socket](https://github.com/qaul/qaul.net/pull/819) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (3 days ago)
 - [Add qauld-ctl CLI and Unix socket control interface for qauld (#541)](https://github.com/qaul/qaul.net/pull/783) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (3 weeks ago)
 - [Add qauld-ctl CLI and Unix socket control interface for qauld (#541)](https://github.com/qaul/qaul.net/pull/747) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (1 month ago)
 - [chore(server): built-in oauth validator](https://github.com/sunng87/pgwire/pull/365) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (3 months ago)
@@ -19,8 +19,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [Lilit0x/shamela-extractor](https://github.com/Lilit0x/shamela-extractor) - A quick tool to search and extract books from Maktabah Shamela&#39;s library dump (today)
-- [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App (2 days ago)
-- [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (3 weeks ago)
+- [Lilit0x/shamela-extractor](https://github.com/Lilit0x/shamela-extractor) - A quick tool to search and extract books from Maktabah Shamela&#39;s library dump (1 day ago)
+- [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App (3 days ago)
+- [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (4 weeks ago)
 - [surveilr/legacy.surveilr.com](https://github.com/surveilr/legacy.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (2 months ago)
 - [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library. (3 months ago)
