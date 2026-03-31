@@ -19,7 +19,7 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [Lilit0x/shamela-extractor](https://github.com/Lilit0x/shamela-extractor) - A quick tool to search and extract books from Maktabah Shamela&#39;s library dump (1 day ago)
+- [Lilit0x/shamela-extractor](https://github.com/Lilit0x/shamela-extractor) - A quick tool to search and extract books from Maktabah Shamela&#39;s library dump (today)
 - [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App (1 week ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 month ago)
 - [surveilr/legacy.surveilr.com](https://github.com/surveilr/legacy.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (2 months ago)
