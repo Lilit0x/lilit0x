@@ -21,7 +21,7 @@ Hi there 👋
 #### 👷 Check out what I'm currently working on
 
 - [Lilit0x/jawhar](https://github.com/Lilit0x/jawhar) - A quick tool to search and extract books from Maktabah Shamela&#39;s library dump (2 days ago)
-- [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App (2 weeks ago)
+- [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App (1 week ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (1 month ago)
 - [surveilr/legacy.surveilr.com](https://github.com/surveilr/legacy.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (2 months ago)
 - [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library. (3 months ago)
