@@ -13,8 +13,8 @@ Hi there 👋
 - [Add qauld-ctl CLI and Unix socket control interface for qauld (#541)](https://github.com/qaul/qaul.net/pull/783) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (2 months ago)
 - [Add qauld-ctl CLI and Unix socket control interface for qauld (#541)](https://github.com/qaul/qaul.net/pull/747) on [qaul/qaul.net](https://github.com/qaul/qaul.net) (2 months ago)
 - [chore(server): built-in oauth validator](https://github.com/sunng87/pgwire/pull/365) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (5 months ago)
-- [feat(server): #298 postgres 18 oauth support ](https://github.com/sunng87/pgwire/pull/349) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (5 months ago)
-- [feat(server): #346 drop unnamed portals immediately after execution](https://github.com/sunng87/pgwire/pull/348) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (5 months ago)
+- [feat(server): #298 postgres 18 oauth support ](https://github.com/sunng87/pgwire/pull/349) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (6 months ago)
+- [feat(server): #346 drop unnamed portals immediately after execution](https://github.com/sunng87/pgwire/pull/348) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (6 months ago)
 - [Postgres 18 OAuth](https://github.com/sunng87/pgwire/pull/340) on [sunng87/pgwire](https://github.com/sunng87/pgwire) (6 months ago)
 
 
