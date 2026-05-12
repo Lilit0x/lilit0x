@@ -20,8 +20,8 @@ Hi there 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [Lilit0x/masjidulameen](https://github.com/Lilit0x/masjidulameen) - Software related artefacts for masjidul ameen (today)
 - [Lilit0x/jawhar](https://github.com/Lilit0x/jawhar) - A quick tool to search and extract books from Maktabah Shamela&#39;s library dump (1 month ago)
 - [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App (1 month ago)
 - [Lilit0x/lilit0x](https://github.com/Lilit0x/lilit0x) -  (2 months ago)
 - [surveilr/legacy.surveilr.com](https://github.com/surveilr/legacy.surveilr.com) - Resource Surveillance &amp; Integration Engine (`surveilr`) Public Facing Omnibus Monorepo (3 months ago)
-- [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library. (5 months ago)
